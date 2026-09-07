@@ -55,7 +55,7 @@ _Full guide: [`USAGE.md`](USAGE.md)_
 
 ## Architecture
 
-Vite project, delivered as a complete runnable codebase (57 files). Top-level layout: `public/`, `src/`. See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
+Vite project, delivered as a complete runnable codebase (46 files). Top-level layout: `public/`, `src/`. See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
 
 ## FAQ
 
